@@ -1,6 +1,6 @@
 # prebuildify-load
 
-Bindings loader for node-gyp that supports prebuilds.
+Build tool and bindings loader for native modules that supports prebuilds.
 
 ```
 npm install prebuildify-load
