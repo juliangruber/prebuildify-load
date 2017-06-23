@@ -1,0 +1,26 @@
+{
+  "name": "prebuildify-load",
+  "version": "0.0.0",
+  "description": "Build tool and bindings loader for native modules that supports prebuilds",
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "bin": {
+    "prebuildify-load": "./bin.js",
+    "prebuildify-load-optional": "./optional.js",
+    "prebuildify-load-test": "./build-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliangruber/prebuildify-load.git"
+  },
+  "author": "Julian Gruber (@juliangruber)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliangruber/prebuildify-load/issues"
+  },
+  "homepage": "https://github.com/juliangruber/prebuildify-load"
+}
