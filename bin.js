@@ -3,7 +3,7 @@
 var proc = require('child_process')
 
 proc.exec('node-gyp-build-test', function (err) {
-  if (err) exit(1)
-  exit(0)
+  if (err) process.exit(1)
+  process.exit(0)
 })
 
