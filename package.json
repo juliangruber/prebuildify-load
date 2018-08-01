@@ -1,6 +1,6 @@
 {
   "name": "prebuildify-load",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Build tool and bindings loader for native modules that supports prebuilds",
   "devDependencies": {
     "standard": "^8.6.0"
